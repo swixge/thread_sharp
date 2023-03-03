@@ -33,7 +33,7 @@ namespace thread_sum
             stopperThread.Join();
             for (int i = 0; i < numThreads; i++)
             {
-                Console.WriteLine($"Thread {i + 1}: sum = {sums[i]}, count = {numver_of_counts[i]}");
+                Console.WriteLine($"Thread {i + 1}: sum = {sums[i]} count = {numver_of_counts[i]}");
             }
         }
 
@@ -47,7 +47,7 @@ namespace thread_sum
         /// <param name="canStop">Зміна відповідна за зупинку потокік</param>
         static void Calculator(int index, int step, double[] sums, double[] counts, ref bool canStop)
         {
-            int sum = 0;
+            double sum = 0;
             int count = 0;
 
             for (int i = 0; !canStop; i += step)
@@ -66,7 +66,7 @@ namespace thread_sum
         /// <param name="canStop"></param>
         static void Stopper(ref bool canStop)
         {
-            Thread.Sleep(3000);
+            Thread.Sleep(1000);
             canStop = true;
         }
     }

@@ -13,3 +13,18 @@ C:\Users\jugyr\OneDrive\Рабочий стол\3.2\Паралельні ОП ()
 C:\Users\jugyr\OneDrive\Рабочий стол\3.2\Паралельні ОП ()\ЛР1\thread_sharp\Thread\Thread\obj\Debug\net6.0\Thread.pdb
 C:\Users\jugyr\OneDrive\Рабочий стол\3.2\Паралельні ОП ()\ЛР1\thread_sharp\Thread\Thread\obj\Debug\net6.0\Thread.genruntimeconfig.cache
 C:\Users\jugyr\OneDrive\Рабочий стол\3.2\Паралельні ОП ()\ЛР1\thread_sharp\Thread\Thread\obj\Debug\net6.0\ref\Thread.dll
+F:\3.2\Паралельні ОП ()\ЛР1\thread_sharp\Thread\Thread\bin\Debug\net6.0\Thread.exe
+F:\3.2\Паралельні ОП ()\ЛР1\thread_sharp\Thread\Thread\bin\Debug\net6.0\Thread.deps.json
+F:\3.2\Паралельні ОП ()\ЛР1\thread_sharp\Thread\Thread\bin\Debug\net6.0\Thread.runtimeconfig.json
+F:\3.2\Паралельні ОП ()\ЛР1\thread_sharp\Thread\Thread\bin\Debug\net6.0\Thread.dll
+F:\3.2\Паралельні ОП ()\ЛР1\thread_sharp\Thread\Thread\bin\Debug\net6.0\Thread.pdb
+F:\3.2\Паралельні ОП ()\ЛР1\thread_sharp\Thread\Thread\obj\Debug\net6.0\Thread.csproj.AssemblyReference.cache
+F:\3.2\Паралельні ОП ()\ЛР1\thread_sharp\Thread\Thread\obj\Debug\net6.0\Thread.GeneratedMSBuildEditorConfig.editorconfig
+F:\3.2\Паралельні ОП ()\ЛР1\thread_sharp\Thread\Thread\obj\Debug\net6.0\Thread.AssemblyInfoInputs.cache
+F:\3.2\Паралельні ОП ()\ЛР1\thread_sharp\Thread\Thread\obj\Debug\net6.0\Thread.AssemblyInfo.cs
+F:\3.2\Паралельні ОП ()\ЛР1\thread_sharp\Thread\Thread\obj\Debug\net6.0\Thread.csproj.CoreCompileInputs.cache
+F:\3.2\Паралельні ОП ()\ЛР1\thread_sharp\Thread\Thread\obj\Debug\net6.0\Thread.dll
+F:\3.2\Паралельні ОП ()\ЛР1\thread_sharp\Thread\Thread\obj\Debug\net6.0\refint\Thread.dll
+F:\3.2\Паралельні ОП ()\ЛР1\thread_sharp\Thread\Thread\obj\Debug\net6.0\Thread.pdb
+F:\3.2\Паралельні ОП ()\ЛР1\thread_sharp\Thread\Thread\obj\Debug\net6.0\Thread.genruntimeconfig.cache
+F:\3.2\Паралельні ОП ()\ЛР1\thread_sharp\Thread\Thread\obj\Debug\net6.0\ref\Thread.dll

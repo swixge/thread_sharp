@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jugyr\\OneDrive\\Рабочий стол\\3.2\\Паралельні ОП ()\\ЛР1\\thread_sharp\\Thread\\Thread\\Thread.csproj",
+      "projectUniqueName": "F:\\3.2\\Паралельні ОП ()\\ЛР1\\thread_sharp\\Thread\\Thread\\Thread.csproj",
       "projectName": "Thread",
-      "projectPath": "C:\\Users\\jugyr\\OneDrive\\Рабочий стол\\3.2\\Паралельні ОП ()\\ЛР1\\thread_sharp\\Thread\\Thread\\Thread.csproj",
+      "projectPath": "F:\\3.2\\Паралельні ОП ()\\ЛР1\\thread_sharp\\Thread\\Thread\\Thread.csproj",
       "packagesPath": "C:\\Users\\jugyr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jugyr\\OneDrive\\Рабочий стол\\3.2\\Паралельні ОП ()\\ЛР1\\thread_sharp\\Thread\\Thread\\obj\\",
+      "outputPath": "F:\\3.2\\Паралельні ОП ()\\ЛР1\\thread_sharp\\Thread\\Thread\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
