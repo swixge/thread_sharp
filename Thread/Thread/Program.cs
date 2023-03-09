@@ -48,7 +48,7 @@ namespace thread_sum
         static void Calculator(int index, int step, double[] sums, double[] counts, ref bool canStop)
         {
             double sum = 0;
-            int count = 0;
+            double count = 0;
 
             for (int i = 0; !canStop; i += step)
             {
@@ -66,7 +66,7 @@ namespace thread_sum
         /// <param name="canStop"></param>
         static void Stopper(ref bool canStop)
         {
-            Thread.Sleep(1000);
+            Thread.Sleep(10000);
             canStop = true;
         }
     }

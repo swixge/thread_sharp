@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\3.2\\Паралельні ОП ()\\ЛР1\\thread_sharp\\Thread\\Thread\\Thread.csproj": {}
+    "C:\\3.2\\Paralelni OP ()\\LR1\\thread_sharp\\Thread\\Thread\\Thread.csproj": {}
   },
   "projects": {
-    "F:\\3.2\\Паралельні ОП ()\\ЛР1\\thread_sharp\\Thread\\Thread\\Thread.csproj": {
+    "C:\\3.2\\Paralelni OP ()\\LR1\\thread_sharp\\Thread\\Thread\\Thread.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\3.2\\Паралельні ОП ()\\ЛР1\\thread_sharp\\Thread\\Thread\\Thread.csproj",
+        "projectUniqueName": "C:\\3.2\\Paralelni OP ()\\LR1\\thread_sharp\\Thread\\Thread\\Thread.csproj",
         "projectName": "Thread",
-        "projectPath": "F:\\3.2\\Паралельні ОП ()\\ЛР1\\thread_sharp\\Thread\\Thread\\Thread.csproj",
+        "projectPath": "C:\\3.2\\Paralelni OP ()\\LR1\\thread_sharp\\Thread\\Thread\\Thread.csproj",
         "packagesPath": "C:\\Users\\jugyr\\.nuget\\packages\\",
-        "outputPath": "F:\\3.2\\Паралельні ОП ()\\ЛР1\\thread_sharp\\Thread\\Thread\\obj\\",
+        "outputPath": "C:\\3.2\\Paralelni OP ()\\LR1\\thread_sharp\\Thread\\Thread\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
